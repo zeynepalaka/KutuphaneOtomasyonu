@@ -1,0 +1,14 @@
+C:\Users\Zeynep\source\repos\kutuphaneotomasyonu\kutuphaneotomasyonu\bin\Debug\kutuphaneotomasyonu.exe.config
+C:\Users\Zeynep\source\repos\kutuphaneotomasyonu\kutuphaneotomasyonu\bin\Debug\kutuphaneotomasyonu.exe
+C:\Users\Zeynep\source\repos\kutuphaneotomasyonu\kutuphaneotomasyonu\bin\Debug\kutuphaneotomasyonu.pdb
+C:\Users\Zeynep\source\repos\kutuphaneotomasyonu\kutuphaneotomasyonu\obj\Debug\kutuphaneotomasyonu.csprojAssemblyReference.cache
+C:\Users\Zeynep\source\repos\kutuphaneotomasyonu\kutuphaneotomasyonu\obj\Debug\kutuphaneotomasyonu.Form1.resources
+C:\Users\Zeynep\source\repos\kutuphaneotomasyonu\kutuphaneotomasyonu\obj\Debug\kutuphaneotomasyonu.Form2.resources
+C:\Users\Zeynep\source\repos\kutuphaneotomasyonu\kutuphaneotomasyonu\obj\Debug\kutuphaneotomasyonu.Properties.Resources.resources
+C:\Users\Zeynep\source\repos\kutuphaneotomasyonu\kutuphaneotomasyonu\obj\Debug\kutuphaneotomasyonu.csproj.GenerateResource.cache
+C:\Users\Zeynep\source\repos\kutuphaneotomasyonu\kutuphaneotomasyonu\obj\Debug\kutuphaneotomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Zeynep\source\repos\kutuphaneotomasyonu\kutuphaneotomasyonu\obj\Debug\kutuphaneotomasyonu.exe
+C:\Users\Zeynep\source\repos\kutuphaneotomasyonu\kutuphaneotomasyonu\obj\Debug\kutuphaneotomasyonu.pdb
+C:\Users\Zeynep\source\repos\kutuphaneotomasyonu\kutuphaneotomasyonu\obj\Debug\kutuphaneotomasyonu.Form4.resources
+C:\Users\Zeynep\source\repos\kutuphaneotomasyonu\kutuphaneotomasyonu\obj\Debug\kutuphaneotomasyonu.Form5.resources
+C:\Users\Zeynep\source\repos\kutuphaneotomasyonu\kutuphaneotomasyonu\obj\Debug\kutuphaneotomasyonu.Form6.resources
